@@ -16,7 +16,7 @@ The following image is a screenshot of the webpage
 ![webpage image](./images/webpage-screenshot.png)
 
 Appliacation URL 
-[Application URL](https://fasicasr.github.io/code_refactorhw1/)
+[https://fasicasr.github.io/code_refactorhw1/](https://fasicasr.github.io/code_refactorhw1/)
 
 
 
