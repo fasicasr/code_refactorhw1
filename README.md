@@ -10,9 +10,12 @@ Horiseon marketing website tailored to ensure web accessiblilty for people with 
 * CSS selectore and properties are organized, commented and follow semantic structure.
 * Footer not diplayed to mirror demo. 
 
-### Horiseon Webpage Links
+### Horiseon Webpage
+
+The following image is a screenshot of the webpage
 ![webpage image](./images/webpage-screenshot.png)
 
+Appliacation URL 
 [Application URL](https://fasicasr.github.io/code_refactorhw1/)
 
 
