@@ -15,7 +15,7 @@ Horiseon marketing website tailored to ensure web accessiblilty for people with 
 The following image is a screenshot of the webpage
 ![webpage image](./images/webpage-screenshot.png)
 
-Appliacation URL 
+Appliacation URL: 
 [https://fasicasr.github.io/code_refactorhw1/](https://fasicasr.github.io/code_refactorhw1/)
 
 
