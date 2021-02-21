@@ -11,7 +11,7 @@ Horiseon marketing website tailored to ensure web accessiblilty for people with 
 * Footer not diplayed to mirror demo. 
 
 ### Horiseon Webpage Links
-[webpage image](./images/webpage-screenshot.png)
+![webpage image](./images/webpage-screenshot.png)
 
 [Application URL](https://fasicasr.github.io/code_refactorhw1/)
 
